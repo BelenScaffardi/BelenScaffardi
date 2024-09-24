@@ -3,3 +3,6 @@
  I'm thrilled to be part of the Egg QA Team 
 ### Contact me. 
 My email is belen.scaffardi@gmail.com
+## Hobbies
+- board games
+- sports
