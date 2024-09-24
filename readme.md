@@ -3,3 +3,7 @@
  I'm thrilled to be part of the Egg QA Team 
 ### Contact me. 
 My email is belen.scaffardi@gmail.com
+##Skills
+- Team working
+- Requirement elicitation
+- Conflict descalation
