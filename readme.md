@@ -7,3 +7,9 @@ My email is belen.scaffardi@gmail.com
 ## Technologies:
 - My SQL Workbench
 - Microsoft SQL Server Managment
+
+## Hobbies
+- board games
+- sports
+
+
