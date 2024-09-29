@@ -8,12 +8,16 @@ My email is belen.scaffardi@gmail.com
 - English B2.
 - Italian B2.
 
-## Technologies:
+## Technologies
 - My SQL Workbench
 - Microsoft SQL Server Managment
+
+## Skills.
+- Team working
+- Requirement elicitation
+- Conflict descalation
 
 ## Hobbies
 - board games
 - sports
-
 
